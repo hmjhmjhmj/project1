@@ -1,0 +1,117 @@
+.content_main {
+  margin: 0 auto;
+}
+.content_main .main {
+  width: 1200px;
+  margin: 30px auto 0;
+}
+.content_main .main .main_left {
+  width: 168px;
+  border: 1px solid #e6e6e6;
+  border-top: 4px solid #ffa130;
+  float: left;
+  text-align: center;
+}
+.content_main .main .main_left ul li a {
+  display: block;
+  color: #666;
+  font-size: 14px;
+  height: 52px;
+  line-height: 52px;
+}
+.content_main .main .main_left ul li a:hover {
+  color: #fff;
+  background-color: #f88f1f;
+}
+.content_main .main .main_right {
+  float: left;
+  width: 1005px;
+  margin-left: 22px;
+}
+.content_main .main .main_right .main_r_head {
+  background-color: #f0f0f0;
+  border: 1px solid #e6e6e6;
+  height: 46px;
+}
+.content_main .main .main_right .main_r_head .head_l {
+  display: inline-block;
+  position: relative;
+  top: -1px;
+  left: -1px;
+  width: 98px;
+  height: 46px;
+  text-align: center;
+  font-size: 18px;
+  line-height: 46px;
+  background-color: #fff;
+  color: #4d4d4d;
+  border: 1px solid #e5e5e5;
+}
+.content_main .main .main_right .main_r_head .bill {
+  padding-left: 36px;
+  font-size: 16px;
+  color: #737373;
+  display: inline-block;
+  height: 46px;
+}
+.content_main .main .main_right .main_right_middle {
+  padding-bottom: 300px;
+}
+.content_main .main .main_right .main_right_middle .right_top {
+  border: 1px solid #e6e6e6;
+}
+.content_main .main .main_right .main_right_middle .right_top .right_top_m {
+  padding-left: 284px;
+  padding-top: 35px;
+  padding-bottom: 82px;
+}
+.content_main .main .main_right .main_right_middle .right_top .right_top_m .balance {
+  background: #faf8f4 url(../images/icon-3.png) 87px center no-repeat;
+  width: 162px;
+  height: 95px;
+  background-color: #faf8f4;
+  padding-top: 57px;
+  padding-left: 178px;
+  border-bottom: 1px solid #e6e6e6;
+}
+.content_main .main .main_right .main_right_middle .right_top .right_top_m .balance dl dt {
+  font-size: 14px;
+  color: #808080;
+  display: block;
+}
+.content_main .main .main_right .main_right_middle .right_top .right_top_m .balance dl dd {
+  font-size: 16px;
+  color: #0d0d0d;
+  font-weight: bold;
+  display: block;
+}
+.content_main .main .main_right .main_right_middle .right_top .right_top_m .text {
+  background: #ffffff url(../images/icon-17.png) 19px 9px no-repeat;
+  color: #6b6b6b;
+  font-size: 12px;
+  height: 50px;
+  line-height: 50px;
+  padding-left: 60px;
+  width: 278px;
+  display: block;
+  margin-top: 32px;
+  border: 1px solid #e7e7e7;
+}
+.content_main .main .main_right .main_right_middle .right_top .right_top_m .text:focus {
+  border: 1px solid #3385ff;
+}
+.content_main .main .main_right .main_right_middle .right_top .right_top_m .sumbit {
+  display: block;
+  background-color: #26c08a;
+  color: #fff;
+  font-size: 14px;
+  font-weight: bold;
+  width: 88px;
+  height: 33px;
+  border: 1px solid  #26c08a;
+  border-radius: 4px;
+  text-align: center;
+  line-height: 33px;
+  margin-left: 124px;
+  margin-top: 62px;
+}

@@ -1,0 +1,91 @@
+#infor1 {
+  background-color: #f5f5f5;
+  padding-bottom: 80px;
+  padding-top: 30px;
+}
+#infor {
+  width: 1200px;
+  margin: 0 auto;
+}
+#infor .infor-detail {
+  display: inline-block;
+  width: 860px;
+  border: 1px solid #d9d9d9;
+  padding: 30px 27px 40px;
+  background-color: white;
+}
+#infor .infor-detail h2 {
+  padding-bottom: 20px;
+  margin-bottom: 15px;
+  color: #333333;
+  font-size: 26px;
+  text-align: center;
+  border-bottom: 2px solid #e6e6e6;
+}
+#infor .infor-detail div {
+  padding: 0 40px;
+}
+#infor .infor-detail div p {
+  margin-top: 30px;
+  color: #333333;
+  font-size: 14px;
+  line-height: 30px;
+}
+#infor .infor-detail div span {
+  color: #808080;
+  font-size: 14px;
+}
+#infor .infor-detail div span a {
+  color: #808080;
+}
+#infor .infor-detail div span span {
+  margin-left: 320px;
+}
+#infor .infor-detail div .v1,
+#infor .infor-detail div .v2 {
+  display: block;
+  font-size: 12px;
+  color: #666666;
+}
+#infor .infor-detail div .v1 {
+  margin-top: 35px;
+}
+#infor .infor-detail div .v2 {
+  margin-top: 15px;
+}
+#infor .infor-nav {
+  padding-bottom: 120px;
+  background-color: #fff;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 20px;
+  width: 258px;
+  border: 1px solid #d9d9d9;
+}
+#infor .infor-nav a {
+  display: block;
+}
+#infor .infor-nav h2 {
+  color: #666666;
+  font-size: 16px;
+  border-bottom: 1px solid #d9d9d9;
+  line-height: 58px;
+  text-align: center;
+  margin-bottom: 5px;
+}
+#infor .infor-nav dl {
+  padding: 20px 13px 0;
+}
+#infor .infor-nav dl img {
+  float: left;
+}
+#infor .infor-nav dl dd {
+  text-align: left;
+  margin-left: 110px;
+  color: #666666;
+  line-height: 20px;
+}
+#infor .infor-nav dl .infor-title {
+  font-size: 14px;
+  color: #333;
+}

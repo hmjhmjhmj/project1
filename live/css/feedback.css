@@ -1,0 +1,89 @@
+.content_main {
+  margin: 0 auto;
+}
+.content_main .main {
+  width: 1200px;
+  margin: 30px auto 0;
+}
+.content_main .main .main_left {
+  width: 168px;
+  border: 1px solid #e6e6e6;
+  border-top: 4px solid #ffa130;
+  float: left;
+  text-align: center;
+}
+.content_main .main .main_left ul li a {
+  display: block;
+  color: #666;
+  font-size: 14px;
+  height: 52px;
+  line-height: 52px;
+}
+.content_main .main .main_left ul li a:hover {
+  color: #fff;
+  background-color: #f88f1f;
+}
+.content_main .main .main_right {
+  float: left;
+  width: 1005px;
+  margin-left: 22px;
+}
+.content_main .main .main_right .main_r_head {
+  border-bottom: 1px solid #e6e6e6;
+  height: 46px;
+}
+.content_main .main .main_right .main_r_head .head_l {
+  position: relative;
+  top: -1px;
+  left: -1px;
+  width: 98px;
+  height: 46px;
+  text-align: center;
+  font-size: 18px;
+  line-height: 46px;
+  color: #4d4d4d;
+  border: 1px solid #e5e5e5;
+}
+.content_main .main .main_right .main_right_middle .right_top {
+  padding-bottom: 391px;
+  padding-top: 21px;
+}
+.content_main .main .main_right .main_right_middle .right_top .right_top_m dl .text {
+  color: #878787;
+  font-size: 14px;
+  background-color: #f5f5f5;
+  padding: 16px 18px;
+  border: 1px solid #e6e6e6;
+  display: block;
+  width: 620px;
+  height: 252px;
+  margin-bottom: 20px;
+}
+.content_main .main .main_right .main_right_middle .right_top .right_top_m dl dt {
+  margin-bottom: 20px;
+}
+.content_main .main .main_right .main_right_middle .right_top .right_top_m dl dt input {
+  width: 255px;
+  padding: 8px 10px 10px;
+  height: 14px;
+  border: 1px solid #e6e6e6;
+  font-size: 14px;
+  color: #6c6c6c;
+}
+.content_main .main .main_right .main_right_middle .right_top .right_top_m dl dt input:focus {
+  border: 1px solid #3385ff;
+}
+.content_main .main .main_right .main_right_middle .right_top .right_top_m .sumbit {
+  background-color: #26c08a;
+  color: #fff;
+  font-size: 14px;
+  font-weight: bold;
+  width: 98px;
+  height: 33px;
+  border: 1px solid  #26c08a;
+  border-radius: 4px;
+  text-align: center;
+  line-height: 33px;
+  margin-top: 7px;
+  margin-left: 528px;
+}

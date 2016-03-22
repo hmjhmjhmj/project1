@@ -1,0 +1,138 @@
+.content_main {
+  margin: 0 auto;
+}
+.content_main .main {
+  width: 1200px;
+  margin: 30px auto 0;
+}
+.content_main .main .main_left {
+  width: 168px;
+  border: 1px solid #e6e6e6;
+  border-top: 4px solid #ffa130;
+  float: left;
+  text-align: center;
+}
+.content_main .main .main_left ul li a {
+  display: block;
+  color: #666;
+  font-size: 14px;
+  height: 52px;
+  line-height: 52px;
+}
+.content_main .main .main_left ul li a:hover {
+  color: #fff;
+  background-color: #f88f1f;
+}
+.content_main .main .main_right {
+  float: left;
+  width: 1005px;
+  margin-left: 22px;
+}
+.content_main .main .main_right .main_r_head {
+  border-bottom: 1px solid #e6e6e6;
+  height: 46px;
+}
+.content_main .main .main_right .main_r_head .head_l {
+  position: relative;
+  top: -1px;
+  left: -1px;
+  width: 98px;
+  height: 46px;
+  text-align: center;
+  font-size: 18px;
+  line-height: 46px;
+  color: #4d4d4d;
+  border: 1px solid #e5e5e5;
+}
+.content_main .main .main_right .mian_right_box {
+  margin-left: -1px;
+  border: 1px solid #e6e6e6;
+  border-top: none;
+  border-bottom: none;
+  margin-bottom: 422px;
+}
+.content_main .main .main_right .mian_right_box .r_box {
+  background-color: #f7f7f7;
+  border-bottom: 1px solid #e6e6e6;
+  line-height: 51px;
+  height: 51px;
+}
+.content_main .main .main_right .mian_right_box .r_box .r_box1 {
+  display: inline-block;
+  width: 192px;
+  font-size: 14px;
+  color: #6c6c6c;
+}
+.content_main .main .main_right .mian_right_box .r_box .r_box1 .radio {
+  margin-left: 16px;
+  margin-right: 22px;
+  vertical-align: middle;
+}
+.content_main .main .main_right .mian_right_box .r_box .r_box1 span {
+  display: inline-block;
+  color: #ca4444;
+}
+.content_main .main .main_right .mian_right_box .r_box .r_box2 {
+  color: #808080;
+  text-align: left;
+  display: inline-block;
+  width: 292px;
+}
+.content_main .main .main_right .mian_right_box .r_box .r_box3 {
+  color: #808080;
+  text-align: center;
+  display: inline-block;
+  width: 219px;
+}
+.content_main .main .main_right .mian_right_box .r_box .r_box4 {
+  color: #808080;
+  text-align: center;
+  display: inline-block;
+  width: 290px;
+}
+.content_main .main .main_right .mian_box .m_box1 {
+  height: 124px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 15px;
+  border-bottom: 1px solid #e6e6e6;
+}
+.content_main .main .main_right .mian_box .m_box1 .m_box2 {
+  padding-right: 110px;
+  display: inline-block;
+  width: 321px;
+  line-height: 124px;
+  padding-left: 40px;
+  background: #ffffff url(../images/icon-20.png) 0px center no-repeat;
+  border-right: 1px solid #e6e6e6;
+  height: 124px;
+}
+.content_main .main .main_right .mian_box .m_box1 .m_box2 img {
+  display: inline-block;
+  vertical-align: middle;
+}
+.content_main .main .main_right .mian_box .m_box1 .m_box2 .goods {
+  display: inline-block;
+  width: 170px;
+  height: 62px;
+  line-height: 14px;
+  padding-left: 16px;
+}
+.content_main .main .main_right .mian_box .m_box1 .m_box3 {
+  display: inline-block;
+  width: 219px;
+  height: 124px;
+  line-height: 124px;
+  border-right: 1px solid #e6e6e6;
+  text-align: center;
+  color: #ee6e38;
+}
+.content_main .main .main_right .mian_box .m_box1 .m_box4 {
+  display: inline-block;
+  width: 291px;
+  height: 124px;
+  font-size: 14px;
+  line-height: 124px;
+  text-align: center;
+  color: #c1c1c1;
+}

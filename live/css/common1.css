@@ -1,0 +1,273 @@
+.header {
+  height: 175px;
+}
+.header .head_nav {
+  margin: 0 auto;
+  background-color: #f5f5f5;
+}
+.header .head_nav .head_nav1 {
+  width: 1200px;
+  margin: 0 auto;
+  height: 28px;
+  line-height: 28px;
+}
+.header .head_nav .head_nav1 .head_nav2 {
+  color: #4d4d4d;
+  background: #f5f5f5 url(../images/header_phone.png) 146px 5px no-repeat;
+  float: right;
+}
+.header .head_nav .head_nav1 .head_nav2 .login {
+  margin-left: 12px;
+}
+.header .head_nav .head_nav1 .head_nav2 .download {
+  margin-left: 8px;
+  padding-left: 19px;
+}
+.header .head_banner {
+  padding: 23px 0;
+  width: 1110px;
+  height: 52px;
+  line-height: 52px;
+  margin: 0 auto;
+  padding-left: 90px;
+  background: #ffffff url(../images/logo.png) 0 6px no-repeat;
+}
+.header .head_banner .logo {
+  display: inline-block;
+  width: 123px;
+  float: left;
+}
+.header .head_banner .home,
+.header .head_banner .urls {
+  display: block;
+}
+.header .head_banner .home {
+  height: 28px;
+  line-height: 28px;
+  font-size: 28px;
+  color: #ffa130;
+  font-weight: bolder;
+}
+.header .head_banner .urls {
+  margin-top: 5px;
+  font-size: 12px;
+  height: 12px;
+  line-height: 12px;
+  word-spacing: 4px;
+  color: #999;
+}
+.header .head_banner .city {
+  height: 52px;
+  width: 28px;
+  line-height: 52px;
+  padding-right: 20px;
+  background: #ffffff url(../images/city_banner.png) 31px 23px no-repeat;
+  margin-left: 46px;
+}
+.header .head_banner .city,
+.header .head_banner .searchbox {
+  display: inline-block;
+}
+.header .head_banner .searchbox {
+  margin-left: 28px;
+}
+.header .head_banner .searchbox input {
+  line-height: 36px;
+  border: 2px solid #ffa130;
+  display: inline-block;
+  padding: 7px 15px 11px;
+  height: 16px;
+  font-size: 14px;
+  color: #666;
+  width: 375px;
+  vertical-align: middle;
+}
+.header .head_banner .searchbox a {
+  vertical-align: middle;
+  display: inline-block;
+  width: 70px;
+  height: 38px;
+  line-height: 38px;
+  text-align: center;
+  background-color: #ffa130;
+  color: #fff;
+  margin-left: 0px;
+  font-size: 14px;
+  font-weight: bolder;
+}
+.header .head_banner .banner_list {
+  display: inline-block;
+}
+.header .head_banner .banner_list .shopping {
+  width: 79px;
+  padding-left: 34px;
+  background: #ffffff url(../images/shopping.png) 20px 6px no-repeat;
+  margin-left: 27px;
+}
+.header .head_banner .banner_list .service {
+  width: 113px;
+  margin-left: 89px;
+}
+.header .head_banner .banner_list .service,
+.header .head_banner .banner_list .shopping {
+  border: 2px solid #e0e0e0;
+  height: 34px;
+  font-size: 14px;
+  color: #808080;
+  line-height: 34px;
+  text-align: center;
+  display: inline-block;
+}
+.header .head_bar {
+  height: 48px;
+  background-color: #ffa130;
+}
+.header .head_bar .bar_main {
+  color: #fff;
+  font-size: 15px;
+  width: 1200px;
+  margin: 0 auto;
+}
+.header .head_bar .bar_main ul li {
+  height: 48px;
+  line-height: 48px;
+  display: inline-block;
+}
+.header .head_bar .bar_main ul li a {
+  text-align: center;
+  width: 168px;
+  font-size: 15px;
+  font-weight: bold;
+  color: #fff;
+  display: inline-block;
+}
+.header .head_bar .bar_main ul li a:hover {
+  background-color: #f88f1f;
+}
+
+
+#comintro,
+#history,
+#industry,
+#stafflife,
+#service {
+  background-color: white;
+  width: 833px;
+  padding: 30px 85px 0;
+  border: 1px solid #e6e6e6;
+}
+#comintro h2,
+#history h2,
+#industry h2,
+#stafflife h2,
+#service h2 {
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 10px;
+}
+#comintro h2 span,
+#history h2 span,
+#industry h2 span,
+#stafflife h2 span,
+#service h2 span {
+  display: block;
+  text-align: center;
+  font-size: 14px;
+  color: #f18555;
+  font-weight: bold;
+}
+#comintro h2 .prp,
+#history h2 .prp,
+#industry h2 .prp,
+#stafflife h2 .prp,
+#service h2 .prp {
+  font-family: arial;
+  color: #aa988e;
+}
+.more-dynamic ul li,
+.more-indus ul li {
+  float: left;
+}
+.more-dynamic ul li a,
+.more-indus ul li a {
+  display: block;
+  font-size: 14px;
+  text-align: center;
+  width: 28px;
+  height: 28px;
+  margin-right: 28px;
+  line-height: 28px;
+  color: #1a1a1a;
+  border: 1px solid #e6e6e6;
+}
+.more-dynamic ul li a:hover,
+.more-indus ul li a:hover {
+  color: white;
+  background-color: #fb7803;
+  border: 1px solid #fb7803;
+}
+.more-dynamic ul li .present,
+.more-indus ul li .present {
+  color: white;
+  background-color: #fb7803;
+  border: 1px solid #fb7803;
+}
+.life-team div span,
+.life-cele div span {
+  display: block;
+  color: #666666;
+  font-size: 14px;
+}
+.life-team div .headline,
+.life-cele div .headline {
+  color: #333333;
+  font-weight: bold;
+  font-size: 16px;
+}
+.life-team div .empha,
+.life-cele div .empha {
+  margin-bottom: 20px;
+  line-height: 25px;
+}
+.life-team div .empha:after,
+.life-cele div .empha:after {
+  content: "";
+  height: 0;
+  width: 80px;
+  display: block;
+  border-bottom: 2px solid #eb6623;
+}
+
+
+
+
+
+
+
+
+
+
+.footer {
+  float: left;
+  width: 100%;
+  /*margin-top: 86px;*/
+  height: 120px;
+  text-align: center;
+  background-color: #f9f0e4;
+  font-size: 12px;
+}
+.footer div {
+  color: #1a1a1a;
+  margin: 40px 0 0px;
+}
+.footer div span {
+  color: #a39d96;
+  margin: 0 4px;
+}
+.footer div a{
+  color: #85817d;
+}
+
+.footer p {
+  margin-top: 14px;
+  color: #999;
+}
